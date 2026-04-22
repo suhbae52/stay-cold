@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Shooter
+  - Test
+  - Barrel
+  - ProjectileBoundary
+  - LaserBarrel
+  - Projectile
+  - Item
+  - Canvas
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Grid Walls
+  - Water
+  - UI
+  - CamBoxLayer
+  - Character
+  - Items
+  - Projectiles
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2140851487
+    locked: 0
+  - name: Midground
+    uniqueID: 3968272563
+    locked: 0
+  - name: Foreground
+    uniqueID: 1665471861
+    locked: 0
+  - name: UI
+    uniqueID: 3077203307
+    locked: 0
