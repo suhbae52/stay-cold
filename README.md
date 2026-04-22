@@ -105,14 +105,6 @@ Player stats (health, energy, speed, score multiplier, slow motion duration, hig
 ### Art
 - Original pixel art — all designed and created from scratch
 
-## Screenshots
-![Main Menu](Screenshots/stay_cold_main_screen.png)
-![Upgrades Menu](Screenshots/stay_cold_upgrades.png)
-![Gameplay](Screenshots/stay_cold_idle.png)
-![Gameplay](Screenshots/stay_cold_dodging.png)
-![Gameplay](Screenshots/stay_cold_reaching_for_item.png)
-![Gameplay](Screenshots/stay_cold_health_item.png)
-
 ## Project Structure
 
 ```
@@ -153,3 +145,11 @@ Assets/
     ├── ShockWave.cs                    # Expanding shockwave that destroys all active projectiles
     └── ShockWaveItem.cs                # Shockwave pickup with off-screen indicator
 ```
+
+## Screenshots
+![Main Menu](Screenshots/stay_cold_main_screen.png)
+![Upgrades Menu](Screenshots/stay_cold_upgrades.png)
+![Gameplay](Screenshots/stay_cold_idle.png)
+![Gameplay](Screenshots/stay_cold_dodging.png)
+![Gameplay](Screenshots/stay_cold_reaching_for_item.png)
+![Gameplay](Screenshots/stay_cold_health_item.png)
